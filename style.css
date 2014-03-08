@@ -1,36 +1,5 @@
 
 
-
-#wrapper {width: 730px;
-	  }
-
-
-#title {font-family: arial;
-	font-size: 30pt;
-	background-color: #D9FFB2;
-	width: 700px;
-	height: 50px;
-	padding: 15px;
-	text-transform:uppercase;}
-
-#links {font-family: arial;
-	font-size: 14;
-	text-align: center;
-}
-
-#content {background-color: #99E699;
-	  width: 700px;
-	  height: 800px;
-	  padding: 15px;
-	  text-align: left;
-	  font-family: arial;
-	  font-size: 18px;
-}
-
-#footer {font-size: 14pt;
-	 width: 700px;
-	 height: 30px;
-	 padding: 15px;
-	 background-color: #4DB84D;}
+#wrapper
 
 
